@@ -9,7 +9,7 @@ A machine learning-powered recommendation system for computer shop equipment. Su
 - Extensible for new product categories
 
 ## Demo
-![Demo Screenshot](demo_screenshot.png)
+<img width="1886" height="881" alt="image" src="https://github.com/user-attachments/assets/eeac18a2-87b8-4290-8059-bc44035214c5" />
 
 ## Getting Started
 
